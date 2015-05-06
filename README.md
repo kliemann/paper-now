@@ -15,7 +15,7 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 1. [Edit the article metadata](_data/article.yml)
 1. Add [data](data)* and [figures](_figures)
 1. [Edit each section](_sections)
-1. [View your article](https://peerj.github.io/paper-now/) in GitHub Pages at https://{username}.github.io/paper-now
+1. [View your article](https://peerj.github.io/paper-now/) in GitHub Pages at https://{username}.github.io/paper-now = [Versuch mit paper-now](https://kliemann.github.io/paper-now/)
 
 ## Notes
 
